@@ -1,0 +1,149 @@
+{
+  "home": {
+    "hero": {
+      "title": "Leave your mark all over the world",
+      "desc": "My travels, tips and experiences"
+    },
+    "about": {
+      "title": "About me",
+      "name": "Hi, I'm Iroda 👋",
+      "desc": "On this blog, I share information about my travels around the world.",
+      "read": "READ",
+      "more": "MORE",
+      "about": "About",
+      "me": "Me"
+    },
+    "destinations": {
+      "title": "🌏 Featured Destinations",
+      "desc": "My favorite places around the world",
+      "btn": "Read More"
+    },
+    "card": {
+      "city": "Rome",
+      "info": "⭐ 4.8 | 💰 Expensive | 🕒 Spring / Fall",
+      "desc": "Italy’s historic capital city.",
+      "btn": "Read More"
+    },
+    "tips": {
+      "title": "✈️ Travel Tips",
+      "tip1": "💡 Pack versatile clothes only",
+      "tip2": "🗺️ Use offline maps",
+      "tip3": "👜 Keep essentials handy",
+      "tip4": "🌟 Learn local phrases"
+    },
+    "blogText": "You can watch useful videos in blog section"
+  },
+  "dest": {
+    "title": "🌏 Featured Destinations",
+    "search": "Search country...",
+    "visited": "Visited Places",
+    "coming": "Coming Soon",
+    "soon": "Coming Soon",
+    "read": "Read More →",
+    "tokio": "Tokio",
+    "indonesia": "Indonesia",
+    "luxembourg": "Luxembourg",
+    "china": "China",
+    "egypt": "Egypt",
+    "albania": "Albania",
+    "price": {
+      "cheap": "Cheap",
+      "medium": "Medium",
+      "expensive": "Expensive"
+    },
+    "season": {
+      "springFall": "Spring/Fall",
+      "summer": "Summer",
+      "winter": "Winter"
+    },
+       "istanbul": "A beautiful city where East meets West.",
+    "london": "A historic and modern capital full of culture.",
+    "dubai": "A luxury city known for skyscrapers and deserts.",
+    "paris": "The city of love, fashion, and art.",
+    "colosseum": "An iconic ancient Roman amphitheater.",
+    "bali": "A tropical paradise with beaches and temples.",
+    "tashkent": "The modern capital of Uzbekistan.",
+    "singapore": "A clean and futuristic city-state.",
+    "sidney": "A vibrant Australian city with famous opera house.",
+    "marrakech": "A colorful Moroccan city with rich culture.",
+    "kyoto": "A traditional Japanese city with temples.",
+    "lisbon": "A coastal city with beautiful views and history.",
+    "tokyo": "A dynamic mix of tradition and technology.",
+    "nyc": "The city that never sleeps.",
+    "prague": "A fairy-tale city with medieval architecture.",
+    "capetown": "A stunning city between mountains and ocean.",
+    "venice": "A romantic city built on canals.",
+    "athens": "The cradle of Western civilization.",
+    "barcelona": "A lively city with unique architecture.",
+    "rome": "The eternal city full of history."
+  },
+  "nav": {
+    "home": "Home",
+    "destinations": "Destinations",
+    "blog": "Blog",
+    "contact": "Contact",
+    "weather": "Weather"
+  },
+  "lang": {
+    "en": "English",
+    "uz": "Uzbek"
+  },
+  "foot": {
+    "join": "Join",
+    "num": "10,000+",
+    "read": "travelers and explore",
+    "today": "starting today!",
+    "subscribe": "Subscribe"
+  },
+  "footer": {
+    "desc": "You can learn about world travel from this site.",
+    "reference": "For reference",
+    "travel": "Travel",
+    "account": "Account",
+    "myList": "My List",
+    "myRequests": "My Requests",
+    "contact": "Contact",
+    "become": "Become a Traveler",
+    "how": "How it works",
+    "rights": "All rights reserved",
+    "terms": "Terms",
+    "privacy": "Privacy",
+    "map": "Site Map",
+    "emailPlaceholder": "Email Address"
+  },
+  "toast": {
+    "success": "You have successfully subscribed! 🎉"
+  },
+  "blog": {
+    "hero": {
+      "line1": "Explore",
+      "line2": "the world",
+      "line3": "through videos"
+    },
+    "cards": {
+      "bali": "Bali",
+      "paris": "Paris Trip",
+      "lisbon": "Lisbon",
+      "turkey": "Turkey Vlog",
+      "maldives": "Maldives",
+      "italy": "Italy Food"
+    },
+    "shorts": "Travel Shorts",
+    "trending": {
+      "turkey": "10 Places\nTo Visit In Turkey",
+      "asia": "Hidden Gems\nIn Asia",
+      "europe": "Cheap Europe\nTravel 2026"
+    }
+  },
+  "contact": {
+    "form": {
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send",
+      "success": "Message sent 🎉"
+    }
+  }
+}

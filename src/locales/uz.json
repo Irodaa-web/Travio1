@@ -1,0 +1,129 @@
+{
+  "home": {
+    "hero": {
+      "title": "Dunyo bo‘ylab iz qoldiring",
+      "desc": "Mening sayohatlarim va tajribalarim"
+    },
+    "about": {
+      "title": "Men haqimda",
+      "name": "Salom, men Iroda 👋",
+      "desc": "Bu blogda men sayohatlarim haqida yozaman",
+      "read": "MEN",
+      "more": "Haqimda",
+      "about": "BILIB",
+      "me": "OLING"
+    },
+    "destinations": {
+      "title": "🌏 Mashhur manzillar",
+      "desc": "Mening sevimli joylarim",
+      "btn": "Batafsil"
+    },
+    "card": {
+      "city": "Rim",
+      "info": "⭐ 4.8 | 💰 Qimmat | 🕒 Bahor / Kuz",
+      "desc": "Italiyaning tarixiy poytaxti",
+      "btn": "Batafsil"
+    },
+    "tips": {
+      "title": "✈️ Sayohat maslahatlari",
+      "tip1": "💡 Faqat kerakli kiyim oling",
+      "tip2": "🗺️ Offline xarita ishlating",
+      "tip3": "👜 Muhim narsalarni yoningizda tuting",
+      "tip4": "🌟 Oddiy iboralarni o‘rganing"
+    },
+    "blogText": "Blogda foydali videolarni ko‘rishingiz mumkin"
+  },
+  "dest": {
+    "title": "🌏 Mashhur manzillar",
+    "search": "Davlat qidiring...",
+    "visited": "Tashrif buyurilgan joylar",
+    "coming": "Tez orada",
+    "soon": "Tez orada",
+    "read": "Batafsil →",
+    "tokio": "Tokio",
+    "indonesia": "Indoneziya",
+    "luxembourg": "Lyuksemburg",
+    "china": "Xitoy",
+    "egypt": "Misr",
+    "albania": "Albaniya",
+    "price": {
+      "cheap": "Arzon",
+      "medium": "O‘rtacha",
+      "expensive": "Qimmat"
+    },
+    "season": {
+      "springFall": "Bahor/Kuz",
+      "summer": "Yoz",
+      "winter": "Qish"
+    }
+  },
+  "nav": {
+    "home": "Asosiy",
+    "destinations": "Manzillar",
+    "blog": "Blog",
+    "contact": "Aloqa",
+    "weather": "Ob-havo"
+  },
+  "lang": {
+    "en": "Inglizcha",
+    "uz": "O‘zbekcha"
+  },
+  "foot": {
+    "join": "Bizga qo‘shiling",
+    "num": "10,000+",
+    "read": "sayohatchilar safida bo‘ling",
+    "today": "bugunoq boshlang!",
+    "subscribe": "Obuna bo‘lish"
+  },
+  "footer": {
+    "desc": "Bu sayt orqali siz dunyo bo‘ylab sayohat qilishni o‘rganishingiz mumkin.",
+    "reference": "Ma'lumot uchun",
+    "travel": "Sayohat",
+    "account": "Akkaunt",
+    "myList": "Mening ro‘yxatim",
+    "myRequests": "So‘rovlarim",
+    "contact": "Aloqa",
+    "become": "Sayohatchi bo‘lish",
+    "how": "Qanday ishlaydi",
+    "rights": "Barcha huquqlar himoyalangan",
+    "terms": "Shartlar",
+    "privacy": "Maxfiylik",
+    "map": "Sayt xaritasi",
+    "emailPlaceholder": "Email manzilingiz"
+  },
+  "toast": {
+    "success": "Siz obuna bo‘ldingiz! 🎉"
+  },
+  "blog": {
+    "hero": {
+      "line1": "Dunyoni",
+      "line2": "videolar orqali",
+      "line3": "kashf eting"
+    },
+    "cards": {
+      "bali": "Bali",
+      "paris": "Parij sayohati",
+      "lisbon": "Lissabon",
+      "turkey": "Turkiya vlog",
+      "maldives": "Maldiv orollari",
+      "italy": "Italiya taomlari"
+    },
+    "shorts": "Qisqa videolar",
+    "trending": {
+      "turkey": "Turkiyada ko‘rish\nkerak bo‘lgan 10 joy",
+      "asia": "Osiyodagi\nsirli joylar",
+      "europe": "Arzon Yevropa\nsayohati 2026"
+    }
+  },
+  "contact": {
+    "form": {
+      "firstName": "Ism",
+      "lastName": "Familiya",
+      "email": "Email",
+      "subject": "Mavzu",
+      "message": "Xabar",
+      "send": "Yuborish",
+      "success": "Xabaringiz yuborildi 🎉"
+    }
+  }
+}
