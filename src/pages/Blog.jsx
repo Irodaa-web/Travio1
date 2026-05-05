@@ -17,10 +17,10 @@ function Blog() {
   ];
 
   const shorts = [
-    { id: 1, src: "/videos/video1.mp4" },
+    { id: 1, src: "/videos/video.mp4" },
     { id: 2, src: "/videos/video1.mp4" },
-    { id: 3, src: "/videos/video1.mp4" },
-    { id: 4, src: "/videos/video1.mp4" },
+    { id: 3, src: "/videos/video2.mp4" },
+    { id: 4, src: "/videos/video3.mp4" },
   ];
 
   return (

@@ -5,6 +5,7 @@ import photo8 from "../images/photo8.jpg"
 import photo9 from "../images/photo9.jpg"
 import photo10 from "../images/photo10.jpg"
 import photo11 from "../images/photo11.jpg"
+import me from "../images/me.jpg"
 import Subscribe from '../components/Subscribe.jsx';
 import { useTranslation } from "react-i18next"
 
@@ -37,10 +38,10 @@ function Home() {
       {/* About */}
 
       <div>
-        <div className={` ${theme}-card w-180 h-70 mt-15 ml-10 flex justify-evenly items-center rounded-xl shadow-lg`}>
+        <div className={` ${theme}-card w-180 h-70 mt-15 ml-15 flex justify-evenly items-center rounded-xl shadow-lg`}>
 
-          <div className='w-60 h-60 rounded-4xl shadow-lg bg-cover'
-            style={{ backgroundImage: `url(${photo3})` }} />
+          <div className='w-80 h-70 shadow-lg bg-cover'
+            style={{ backgroundImage: `url(${me})` }} />
 
           <div className='w-77 h-60 border border-black rounded-l-lg p-5'>
             <p className='text-3xl font-bold'>{t("home.about.title")}</p>
@@ -84,21 +85,21 @@ function Home() {
       <div className='mt-10 flex justify-between'>
 
         <div className='mt-30 ml-20'>
-          <p className='text-6xl font-bold text-center ml-23'>
+          <p className='text-6xl font-bold text-center ml-25'>
             {t("home.destinations.title")}
           </p>
 
-          <p className={`${theme} text-2xl font-medium text-center text-gray-700`}>
+          <p className={`${theme} text-2xl font-medium ml-40 text-gray-700`}>
             {t("home.destinations.desc")}
           </p>
 
           <Link to="/destinations"
-            className="w-30 h-10 bg-teal-500 rounded-lg flex items-center justify-evenly text-white mt-10 ml-80">
+            className="w-30 h-10 bg-teal-500 rounded-lg flex items-center justify-evenly text-white mt-10 ml-110">
             {t("home.destinations.btn")}
           </Link>
         </div>
 
-        <div className={` ${theme}-card mt-25 mr-40 w-110 h-80 rounded-xl overflow-hidden transform transition duration-300 hover:-translate-y-2 hover:scale-105`}>
+        <div className={` ${theme}-card mt-25 mr-40 w-120 h-85 rounded-xl overflow-hidden transform transition duration-300 hover:-translate-y-2 hover:scale-105`}>
           <img src={photo} className='w-full h-55 object-cover' />
           <p className='text-xl font-semibold pl-3'>
             {t("home.card.city")}

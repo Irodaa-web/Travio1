@@ -21,6 +21,7 @@ function Subscribe() {
 
         <input
           type="email"
+          autoComplete="email"
           className="w-60 h-13 border border-gray-600 rounded-lg float-right -mt-15 mr-40 p-5 dark:bg-white dark:text-black"
           placeholder={t("footer.emailPlaceholder")}
           value={inputValue}

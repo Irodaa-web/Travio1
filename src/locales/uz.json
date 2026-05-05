@@ -55,7 +55,69 @@
       "springFall": "Bahor/Kuz",
       "summer": "Yoz",
       "winter": "Qish"
-    }
+    },
+    "istanbul": "Sharq va G‘arb tutashgan go‘zal shahar.",
+  "london": "Madaniyatga boy, tarixiy va zamonaviy poytaxt.",
+  "dubai": "Osmono‘par binolari va sahrolari bilan mashhur hashamatli shahar.",
+  "paris": "Sevgi, moda va san’at shahri.",
+  "colosseum": "Qadimiy Rimning mashhur amfiteatri.",
+  "bali": "Plyajlari va ibodatxonalari bilan tropik jannat.",
+  "tashkent": "O‘zbekistonning zamonaviy poytaxti.",
+  "singapore": "Toza va futuristik shahar-davlat.",
+  "sidney": "Mashhur opera uyi bor jonli Avstraliya shahri.",
+  "marrakech": "Rang-barang va boy madaniyatga ega Marokash shahri.",
+  "kyoto": "Ibodatxonalari bilan an’anaviy yapon shahri.",
+  "lisbon": "Go‘zal manzaralari va tarixga ega qirg‘oq shahri.",
+  "tokyo": "An’ana va texnologiya uyg‘unlashgan dinamik shahar.",
+  "nyc": "Hech qachon uxlamaydigan shahar.",
+  "prague": "O‘rta asr arxitekturasi bilan ertakdagi shahar.",
+  "capetown": "Tog‘lar va okean orasidagi ajoyib shahar.",
+  "venice": "Kanallar ustiga qurilgan romantik shahar.",
+  "athens": "G‘arb sivilizatsiyasining beshigi.",
+  "barcelona": "O‘ziga xos arxitekturaga ega jonli shahar.",
+  "rome": "Tarixga boy abadiy shahar."
+  },
+
+  "d": {
+    "1": "Istanbul men ko‘rgan eng qiziqarli shaharlardan biri. U Yevropa va Osiyoni o‘ziga xos va chiroyli tarzda bog‘laydi. Ko‘chalarida yurish tarix ichida sayohat qilgandek tuyuladi. Masjidlar va arxitektura juda hayratlanarli. Ayniqsa Hagia Sophia va Moviy masjidni ziyorat qilishni juda yoqtirdim. Mahalliy taomlar, masalan kebab va baklava, unutilmas edi. Bosfor manzarasi quyosh botishida juda sehrli edi. Odamlar hamma joyda samimiy va mehmondo‘st edi. Bozorlar rang-barang va hayotga to‘la edi. Istanbul menga hech qachon unutmaydigan xotiralar qoldirdi.",
+
+    "2": "London tarix va zamonaviy madaniyatga boy shahar. Ko‘chalari doim odamlar va energiyaga to‘la. Big Ben va Tower Bridge kabi mashhur joylarni ko‘rishni yoqtirdim. Muzeylar dunyo darajasida va ko‘pincha bepul. Ob-havo o‘zgaruvchan, lekin bu shaharga o‘ziga xoslik beradi. Jamoat transporti juda qulay. Temza daryosi bo‘ylab yurish yoqimli edi. Eski va yangi arxitektura uyg‘unligi juda ajoyib. Bu yerda dunyoning barcha taomlarini topish mumkin. London hech qachon zeriktirmaydi.",
+
+    "3": "Dubai hashamat va innovatsiyalar shahri. Osmono‘par binolar dunyodagi eng balandlaridan. Burj Khalifa manzarasi meni hayratga soldi. Sahro safari eng qiziqarli tajribalardan biri edi. Savdo markazlari juda katta va to‘liq ko‘ngilochar. Shahar juda toza va zamonaviy. An’anaviy madaniyat va futuristik dizayn uyg‘unlashgan. Plyajlar juda chiroyli va dam olish uchun ideal. Kechki hayot juda jonli. Dubai kelajak shahri kabi ko‘rinadi.",
+
+    "4": "Paris sevgi va romantika shahri sifatida tanilgan. Eyfel minorasi real hayotda yanada chiroyli. Sena daryosi bo‘ylab yurish tinch va yoqimli edi. Kafelar va nonvoyxonalar juda mazali. Krossan va fransuz shirinliklarini tatib ko‘rishni yoqtirdim. Ko‘chalar san’atiy muhitga ega. Luvr muzeyi tarixga boy. Shahar juda nafis va zamonaviy. Har bir joyi rasmga o‘xshaydi. Paris haqiqatan ham unutilmas shahar.",
+
+    "5": "Rimdagi Kolizey qadimiy tarixning kuchli ramzidir. U yerda turib o‘tmishni tasavvur qildim. Arxitektura juda ta’sirli, hatto bugungi kunda ham. Gladiatorlar va janglar haqida hikoya qiladi. Atrof ham tarixga boy. Yurish vaqt ichida sayohat qilgandek bo‘ladi. Rim madaniyatini o‘rganish juda qiziqarli edi. Bino juda ulkan va hayratlanarli. Gidlar juda qiziqarli hikoyalar aytadi. Rim har bir inson ko‘rishi kerak bo‘lgan joy.",
+
+    "6": "Bali tropik jannat bo‘lib, juda chiroyli. Plyajlar toza va dam olish uchun ideal. Quyosh botishi juda ajoyib. Men ibodatxonalar va mahalliy madaniyatni o‘rganishni yoqtirdim. Odamlar juda mehribon va samimiy. Tabiat tinch va tetiklantiruvchi. Guruch dalalari ajoyib manzara yaratadi. Taomlar yangi va mazali. Bali dam olish uchun mukammal joy. Bu ko‘pchilik sayyohlar uchun orzu manzili.",
+
+    "7": "Toshkent an’anaviy va zamonaviy hayot uyg‘unlashgan shahar. Arxitekturasi juda qiziqarli. Mahalliy bozorlarni ziyorat qilishni yoqtirdim. Taomlar mazali va boy ta’mga ega. Odamlar juda do‘stona va yordamchi. Shahar toza va tartibli. Ko‘plab parklar va yashil hududlar bor. Transport qulay. O‘zbek madaniyatini his qilish uchun ajoyib joy. Toshkent juda sokin va mehmondo‘st.",
+
+    "8": "Singapore dunyodagi eng toza shaharlardan biri. Skyline juda zamonaviy va chiroyli. Gardens by the Bay mening eng sevimli joyim edi. Shahar yashil va innovatsiyalarga boy. Taomlar juda xilma-xil va mazali. Transport juda samarali. Shahar o‘zini xavfsiz his qiladi. Turli madaniyatlar uyg‘unlashgan. Xarid qilish va ko‘ngilochar joylar juda ko‘p. Singapore kichik bo‘lsa ham hayotga to‘la.",
+
+    "9": "Sydney chiroyli qirg‘oq shahri. Opera uyi juda mashhur va chiroyli. Port manzaralari hayratlanarli. Plyajlarda vaqt o‘tkazishni yoqtirdim. Shahar dam olishga mos. Tabiat va shahar hayoti uyg‘unlashgan. Ob-havo odatda iliq va yoqimli. Odamlar samimiy va ochiqko‘ngil. Ko‘plab ochiq havodagi faoliyatlar bor. Sydney dam olish va zavq uchun ideal.",
+
+    "10": "Marrakech ranglar va energiyaga boy shahar. Bozorlar juda jonli. Eski medinani o‘rganishni yoqtirdim. Arxitekturasi juda o‘ziga xos. An’anaviy taomlar mazali. Shahar sehrli va boshqacha. Ko‘plab chiroyli saroylar bor. Atmosfera issiq va jonli. Har bir ko‘chada qiziqarli narsa bor. Marrakech haqiqiy madaniy tajriba.",
+
+    "11": "Kyoto sokin va tarixiy shahar. Ibodatxonalar va ziyoratgohlar ko‘p. Bahordagi sakura gullari juda chiroyli. Shahar juda tinch va ruhiy. An’anaviy madaniyat saqlangan. Sokina ko‘chalarda yurish yoqimli. Bog‘lar juda chiroyli. Taomlar oddiy, lekin mazali. Odamlar hurmatli va muloyim. Kyoto dam olish uchun ideal joy.",
+
+    "12": "Lisbon rang-barang va yoqimli shahar. Ko‘chalar tepaga va pastga joylashgan. Tepadan ko‘rinishlar juda chiroyli. Sariq tramvaylar juda mashhur. Shahar sokin muhitga ega. Dengiz mahsulotlari juda mazali. Binolar plitkalar bilan bezatilgan. Ob-havo iliq va quyoshli. Odamlar do‘stona. Lisbon go‘zallik va jozibaga boy.",
+
+    "13": "Tokyo tezkor va zamonaviy shahar. Texnologiya hamma joyda. Shahar juda toza va tartibli. Shibuya ko‘chalari juda gavjum. Taomlar juda mazali va xilma-xil. Ko‘plab madaniy tajribalar bor. Eski va yangi uyg‘unlashgan. Transport juda rivojlangan. Shahar hech qachon uxlamaydi. Tokyo hayajonli va unutilmas.",
+
+    "14": "New York City energiya va hayotga to‘la. Skyline juda mashhur. Times Square juda yorqin va gavjum. Central Park tinch dam olish joyi. Ko‘plab mashhur joylar bor. Shahar doim faol. Dunyo taomlari mavjud. Tezkor hayot tarzi yoqadi. Doim nima qilish mumkin. NYC hech qachon uxlamaydigan shahar.",
+
+    "15": "Prague ertakdagi kabi shahar. Arxitekturasi juda chiroyli. Qal’alar va ko‘priklar ko‘p. Eski shahar juda go‘zal. Kechasi sehrli ko‘rinadi. Shahar bo‘ylab yurish yoqimli. Tarix har joyda seziladi. Atmosfera sokin va romantik. Taomlar oddiy, lekin mazali. Prague unutilmas shahar.",
+
+    "16": "Cape Town eng chiroyli manzarali shaharlardan biri. Table Mountain juda hayratlanarli. Okean manzaralari ajoyib. Tabiat shaharga juda yaqin. Yurish va sayohat qilish yoqimli. Plyajlar juda chiroyli. Madaniyat xilma-xil. Taomlar yangi va mazali. Ob-havo yoqimli. Cape Town tabiat sevuvchilar uchun jannat.",
+
+    "17": "Venice suv ustiga qurilgan shahar. Kanallar juda o‘ziga xos. Gondola sayohati unutilmas. Arxitektura klassik va nafis. Tor ko‘chalarda yurish qiziqarli. Shahar romantik muhitga ega. Tinchlikni his qilasiz. Har bir joyi chiroyli. Tarix juda boy. Venice yagona va betakror shahar.",
+
+    "18": "Athens qadimiy tarixga boy shahar. Akropol juda mashhur. Shahar o‘tmish hikoyalarini aytadi. Yunon madaniyatini o‘rganish qiziqarli. Ob-havo iliq va quyoshli. Taomlar sog‘lom va mazali. Shahar jonli va faol. Ko‘plab tarixiy joylar bor. Odamlar do‘stona. Athens eski va zamonaviy uyg‘unligi.",
+
+    "19": "Barcelona jonli va san’atga boy shahar. Gaudi arxitekturasi juda o‘ziga xos. Plyajlar dam olish uchun yaxshi. Shahar juda energiyali. Taomlar mazali va yangi. La Rambla bo‘ylab yurish yoqimli. Kechki hayot juda qiziqarli. Madaniyat rang-barang. Ob-havo yoqimli. Barcelona hayotga to‘la.",
+
+    "20": "Rome tarix va go‘zallikka boy shahar. Har bir ko‘chada tarix bor. Qadimiy xarobalar ko‘p. Kolizeyni ko‘rishni yoqtirdim. Pasta juda mazali. Shahar tirik va tarixiy. Arxitektura hayratlanarli. Rim bo‘ylab yurish muzeyga o‘xshaydi. Atmosfera iliq va samimiy. Rome abadiy va chiroyli."
   },
   "nav": {
     "home": "Asosiy",

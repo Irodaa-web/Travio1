@@ -128,22 +128,22 @@ function Destinations() {
       </div>
 
       {/* Modal */}
-      {selectedItem && (
-        <div className='fixed inset-0 flex justify-center items-center z-50 backdrop-blur-sm text-black'>
-          <div className={`${theme} bg-white w-120 max-h-[80vh] p-6 rounded-xl relative overflow-y-auto`}>
+        {selectedItem && (
+          <div className='fixed inset-0 flex justify-center items-center z-50 backdrop-blur-sm text-black'>
+            <div className={`${theme} bg-white w-120 max-h-[80vh] p-6 rounded-xl relative overflow-y-auto`}>
 
-            <button
-              className="absolute top-2 right-2"
-              onClick={() => setSelectedItem(null)}
-            >✕</button>
+              <button
+                className="absolute top-2 right-2"
+                onClick={() => setSelectedItem(null)}
+              >✕</button>
 
-            <h2 className="text-2xl font-bold mb-3">{selectedItem.name}</h2>
-            <img src={selectedItem.img} className="w-full h-48 object-cover rounded-lg mb-3" />
-            <p className="text-xl pb-3">{selectedItem.description}</p>
-            <p>{texts[selectedItem.id]}</p>
+              <h2 className="text-2xl font-bold mb-3">{selectedItem.name}</h2>
+              <img src={selectedItem.img} className="w-full h-48 object-cover rounded-lg mb-3" />
+              <p className="text-xl pb-3">{selectedItem.description}</p>
+             <p>{t(`d.${selectedItem.id}`)}</p>
+            </div>
           </div>
-        </div>
-      )}
+        )}
 
       <p className='text-3xl font-bold mt-10 ml-10'>
         {t("dest.coming")}
@@ -163,7 +163,7 @@ function Destinations() {
             </div>
 
             <h3 className="absolute bottom-2 left-3 text-white text-xl font-bold">
-             {t(`dest.${e.name}`)}
+             {t(`d.${e.name}`)}
             </h3>
           </div>
         ))}
