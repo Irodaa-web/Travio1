@@ -157,13 +157,10 @@ function Destinations() {
 
             <div className='absolute inset-0 flex flex-col items-center justify-center text-white'>
               <FaLock className='text-3xl mb-2' />
-               {/* <p className='text-lg font-semibold'>
-                {t(`dest.${e.name}`)}
-              </p>  */}
             </div>
 
             <h3 className="absolute bottom-2 left-3 text-white text-xl font-bold">
-             {t(`d.${e.name}`)}
+             {t(`dest.${e.name}`)}
             </h3>
           </div>
         ))}
